@@ -8,5 +8,5 @@
 
 ## 関連
 
-[UI](https://github.com/shift-scheduler/shift_scheduler_tool)
-[API](https://github.com/shift-scheduler/shift_scheduler_tool_api)
+[UI](https://github.com/shift-scheduler/shift_scheduler_tool)  
+[API](https://github.com/shift-scheduler/shift_scheduler_tool_api)  
