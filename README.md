@@ -1,6 +1,3 @@
-# Shift-Scheduler-Tool-API
+# Shift-Scheduler
 
-## 構成イメージ
-
-シフトスケジューリング部分:python <- わんちゃんリポジトリを別にした方がいいかも  
-api:node.js(フレームワークはexpress)
+シフトスケジューリング部分:python
